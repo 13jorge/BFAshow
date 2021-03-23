@@ -37,6 +37,10 @@ body{
     opacity: 0.8;
 }
 
+.mainPhoto{
+  margin: 0 300px;
+}
+
 @keyframes glitch {
   0%{
     text-shadow:
